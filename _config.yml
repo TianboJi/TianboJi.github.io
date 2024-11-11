@@ -12,7 +12,7 @@ title                    : "Tianbo Ji's Site"
 title_separator          : "-"
 name                     : &name "Tianbo Ji"
 description              : &description "personal description"
-url                      : https://tianboji.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tianboji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TianboJi/TianboJi.github.io"
 
@@ -31,8 +31,8 @@ author:
   email            : "jitianbo@ntu.edu.cn" 
 
   # Academic websites
-  arxiv            : "https://scholar.google.com/citations?user=mLc1OxUAAAAJ&hl=en"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : #
+  googlescholar    : "https://scholar.google.com/citations?user=mLc1OxUAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-0143-6220"
   semantic         : # URL
