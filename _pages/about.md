@@ -34,3 +34,29 @@ Publications
 * **Tianbo Ji**, Yvette Graham, and Gareth J.F. Jones, “Contrasting Human Opinion of Non-Factoid Question Answering with Automatic Evaluation,” in *Proceedings of the 2020 Conference on Human Information Interaction and Retrieval* (CHIIR'20), Vancouver BC, Canada: Association for Computing Machinery, 2020, pp. 348–352, isbn: 9781450368926. doi: 10.1145/3343413.3377996  
 **Corresponding Author*  
 *†Equal Contribution*
+
+
+Academic Activities
+======
+Reviewer
+------
+* **Journal**: Artificial Intelligence Review, Journal of Supercomputing, New Generation Computing, Drones, PLOS One, Applied Sciences.
+* **Conference**: Annual Meeting of the Association for Computational Linguistics (ACL), European Conference on Information Retrieval (ECIR), International Conference on Multimedia Modeling (MMM)
+
+Project
+------
+* National Natural Science Foundation of China (52272322)
+
+Membership
+------
+* *Member*, **IEEE** (Institute of Electrical and Electronics Engineers), with *IEEE Computer Society* and *IEEE Intelligent Transportation Systems Society*
+* *Member*, **CCF** (China Computer Federation)
+* *Member*, **CAAI** (Chinese Association for Artificial Intelligence)
+  
+Teaching
+======
+* **Transportation Big Data Analysis and Processing**, *B.Eng. in Traffic Engineering (Junior)*
+* **Course Design of Transportation Big Data Analysis and Processing**, *B.Eng. in Traffic Engineering (Junior)*
+* **Transportation Big Data Analysis and Processing**, *B.Eng. in Traffic Devices (Junior)* 
+* **Transportation Big Data Theory**, *M.Eng. in Transportation (Year-1)*
+* **Professional English for Traffic Engineering**, *M.Eng. in Transportation (Year-1)*
