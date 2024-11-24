@@ -11,19 +11,17 @@ I am currently a lecture from School of Transportation and Civil Engineering, Na
 
 Education
 ======
-|Period|Degree|Univeristy|
-|-|-|-|
-|2017-2022|Ph.D. in Computer Science|Dublin City University|
-|2015-2016|M.Sc. in Computing Science|University College Cork|
-|2011-2015|B.Eng. in Software Engineering|Nanjing University of Information Science \& Technology|
+
+* 2017-2022, Ph.D. in Computer Science, Dublin City University
+* 2015-2016, M.Sc. in Computing Science, University College Cork
+* 2011-2015, B.Eng. in Software Engineering, Nanjing University of Information Science \& Technology
 
 Employment
 ======
-|Period|Position|Affiliation|Location|
-|-|-|-|-|
-|2023 -- now|Lecturer|School of Transportation and Civil Engineering, Nantong University|Nantong, Jiangsu, China|
-|2021|Internship|Huawei Noah's Ark Lab|Shenzhen, Guangdong, China|
-|2017 -- 2019|Research Assistant| Maynooth University|Maynooth, Co. Kildare, Ireland|
+
+* 2023 -- now, Lecturer, School of Transportation and Civil Engineering, Nantong University, Nantong, Jiangsu, China
+* 2021 (Jan -- Jun), Internship, Huawei Noah's Ark Lab, Shenzhen, Guangdong, China
+* 2017 -- 2019, Research Assistant, Maynooth University, Maynooth, Co. Kildare, Ireland
 
 Publications
 ======
