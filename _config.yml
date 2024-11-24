@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tianbo Ji's Site"
+title                    : "Tianbo Ji"
 title_separator          : "-"
 name                     : &name "Tianbo Ji"
 description              : &description "personal description"
