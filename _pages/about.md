@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Tianbo Ji's Academic Page"
+title: "Brief Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a lecture from School of Transportation and Civil Engineering, Nantong University. I obtained my PhD from School of Computing in 2022, Dublin City University (funded by ADAPT Centre), and I was co-supervised by [Qun Liu](https://liuquncn.github.io/index_en.html), [Yvette Graham](https://www.tcd.ie/scss/people/academic-staff/ygraham/), and [Gareth Jones](https://www.dcu.ie/computing/people/gareth-jones). My research interests focus on Natural Language Processing, Large Language Models, Multi-modal Feature Fusion, Intelligent Transportation Systems and Multidisciplinary Applications of AI.
+I am currently a lecture from School of Transportation and Civil Engineering, Nantong University. In 2022, I obtained my PhD at Dublin City University (funded by ADAPT Centre), and I was co-supervised by [Qun Liu](https://liuquncn.github.io/index_en.html), [Yvette Graham](https://www.tcd.ie/scss/people/academic-staff/ygraham/), and [Gareth Jones](https://www.dcu.ie/computing/people/gareth-jones). My research interests focus on Natural Language Processing, Large Language Models, Multi-modal Feature Fusion, Intelligent Transportation Systems and Multidisciplinary Applications of AI.  
+***Emails:***  
+jitianbo@ntu.edu.cn  
+tianbo.ji2@mail.dcu.ie (receive-only)
+
 
 Education
 ======
