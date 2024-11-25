@@ -33,22 +33,25 @@ Listed below are some papers for which I am the (co-)first or corresponding auth
 <!-- **Corresponding Author*  
 *†Equal Contribution* -->
 
-* Urban Transport Emission Prediction Analysis through Machine Learning and Deep Learning Techniques [[DOI](https://doi.org/10.1016/j.trd.2024.104389)] [[Bibtex](/_publications/bibtex/acl2022.bib)]  
+* Urban Transport Emission Prediction Analysis through Machine Learning and Deep Learning Techniques [[DOI](https://doi.org/10.1016/j.trd.2024.104389)] [[Bibtex](/publications/bibtex/trd2024.bib)]  
 **Tianbo Ji**, Kechen Li, Quanwei Sun, and Zexia Duan\*  
 *Transportation Research Part D: Transport and Environment*, vol. 135, p. 104 389, 2024, issn: 1361-9209.
-* Achieving Reliable Human Assessment of Open-Domain Dialogue Systems [[PDF]()] [[Bibtex]()]   
+* Achieving Reliable Human Assessment of Open-Domain Dialogue Systems [[PDF](https://aclanthology.org/2022.acl-long.445.pdf)] [[Bibtex](/publications/bibtex/acl2022.bib)]   
 **Tianbo Ji**, Yvette Graham, Gareth Jones, Chenyang Lyu, and Qun Liu  
 in *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**)*, Volume 1: Long Papers, Dublin, Ireland: Association for Computational Linguistics, May 2022, pp. 6416–6437. 
-* Document-Level Machine Translation with Large Language Models [[PDF]()] [[Bibtex]()]   
+* Graph-based video-language learning with multi-grained audio-visual alignment  [[DOI](https://doi.org/10.1145/3581783.3612132)] [[Bibtex](/publications/bibtex/acmmm2023.bib)]   
+Chenyang Lyu, Wenxi Li, Tianbo Ji*, Longyue Wang, Liting Zhou, Cathal Gurrin, Linyi Yang, Yi Yu, Yvette Graham, and Jennifer Foster  
+in *Proceedings of the 31st ACM International Conference on Multimedia (**ACM MM'23**)*, Ottawa ON, Canada: Association for Computing Machinery, 2023, pp. 3975–3984, isbn: 9798400701085. 
+* Document-Level Machine Translation with Large Language Models [[PDF](https://aclanthology.org/2023.emnlp-main.1036.pdf)] [[Bibtex](/publications/bibtex/emnlp2023.bib)]   
 Longyue Wang†, Chenyang Lyu†, **Tianbo Ji**†, Zhirui Zhang, Dian Yu, Shuming Shi, and Zhaopeng Tu  
 in *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**)*, Singapore: Association for Computational Linguistics, Dec. 2023, pp. 16 646–16 661.
-* Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks  [[PDF]()] [[Bibtex]()]   
+* Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447275)] [[Bibtex](/publications/bibtex/icassp2024.bib)]   
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Yi Yu, and Longyue Wang  
 in *2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)*, 2024, pp. 11 616–11 620.
-* Gated Multi-modal Fusion with Cross-modal Contrastive Learning for Video Question Answering [[PDF]()] [[Bibtex]()]   
+* Gated Multi-modal Fusion with Cross-modal Contrastive Learning for Video Question Answering [[DOI](https://doi.org/10.1007/978-3-031-44195-0_35)] [[Bibtex](/publications/bibtex/icann2023.bib)]   
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Liting Zhou, and Cathal Gurrin  
-in *Artificial Neural Networks and Machine Learning (**ICANN 2023**)*, Cham: Springer Nature Switzerland, 2023, pp. 427–438, isbn: 978-3-031-44195-0
-* Contrasting Human Opinion of Non-Factoid Question Answering with Automatic Evaluation [[PDF]()] [[Bibtex]()]   
+in *Artificial Neural Networks and Machine Learning (**ICANN 2023**)*, Cham: Springer Nature Switzerland, 2023, pp. 427–438, isbn: 978-3-031-44195-0.
+* Contrasting Human Opinion of Non-Factoid Question Answering with Automatic Evaluation [[PDF](https://dl.acm.org/doi/pdf/10.1145/3343413.3377996)] [[Bibtex](/publications/bibtex/chiir2020.bib)]   
 **Tianbo Ji**, Yvette Graham, and Gareth J.F. Jones  
 in *Proceedings of the 2020 Conference on Human Information Interaction and Retrieval (**CHIIR'20**)*, Vancouver BC, Canada: Association for Computing Machinery, 2020, pp. 348–352, isbn: 9781450368926. 
 
