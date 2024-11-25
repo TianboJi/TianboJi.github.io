@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Tianbo Ji"
 title_separator          : "-"
-name                     : &name "Tianbo Ji 嵇天博"
+name                     : &name "Tianbo Ji"
 description              : &description "personal description"
 url                      : https://tianboji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "TianboJi/TianboJi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tianbo Ji"
+  name             : "Tianbo Ji 嵇天博"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Nantong, China"
