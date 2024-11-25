@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Brief Biography"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+Brief Biography
+======
 
 I am currently a lecturer from School of Transportation and Civil Engineering, Nantong University. In 2022, I obtained my PhD at Dublin City University (funded by ADAPT Centre), and I was co-supervised by [Qun Liu](https://liuquncn.github.io/index_en.html), [Yvette Graham](https://www.tcd.ie/scss/people/academic-staff/ygraham/), and [Gareth Jones](https://www.dcu.ie/computing/people/gareth-jones). My research interests focus on Natural Language Processing, Large Language Models, Multi-modal Feature Fusion, Intelligent Transportation Systems and Multidisciplinary Applications of AI.  
 ***Emails:***  
@@ -40,7 +44,7 @@ Listed below are some papers for which I am the (co-)first or corresponding auth
 **Tianbo Ji**, Yvette Graham, Gareth Jones, Chenyang Lyu, and Qun Liu  
 in *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**)*, Volume 1: Long Papers, Dublin, Ireland: Association for Computational Linguistics, May 2022, pp. 6416–6437. 
 * Graph-based video-language learning with multi-grained audio-visual alignment  [[DOI](https://doi.org/10.1145/3581783.3612132)] [[Bibtex](/publications/bibtex/acmmm2023.bib)]   
-Chenyang Lyu, Wenxi Li, Tianbo Ji*, Longyue Wang, Liting Zhou, Cathal Gurrin, Linyi Yang, Yi Yu, Yvette Graham, and Jennifer Foster  
+Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Longyue Wang, Liting Zhou, Cathal Gurrin, Linyi Yang, Yi Yu, Yvette Graham, and Jennifer Foster  
 in *Proceedings of the 31st ACM International Conference on Multimedia (**ACM MM'23**)*, Ottawa ON, Canada: Association for Computing Machinery, 2023, pp. 3975–3984, isbn: 9798400701085. 
 * Document-Level Machine Translation with Large Language Models [[PDF](https://aclanthology.org/2023.emnlp-main.1036.pdf)] [[Bibtex](/publications/bibtex/emnlp2023.bib)]   
 Longyue Wang†, Chenyang Lyu†, **Tianbo Ji**†, Zhirui Zhang, Dian Yu, Shuming Shi, and Zhaopeng Tu  
