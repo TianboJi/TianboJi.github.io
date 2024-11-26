@@ -20,9 +20,10 @@ tianbo.ji2@mail.dcu.ie (receive-only)
 Education
 ======
 
-* 2017-2022, Ph.D. in Computer Science, Dublin City University (Thesis title: *Human Evaluation and Statistical Analyses on Machine Reading Comprehension, Question Generation and Open-domain Dialogue*)
-* 2015-2016, M.Sc. in Computing Science, University College Cork
-* 2011-2015, B.Eng. in Software Engineering, Nanjing University of Information Science \& Technology
+* 2017-2022, **Ph.D.**, *Computer Science*, Dublin City University  
+Thesis title: *Human Evaluation and Statistical Analyses on Machine Reading Comprehension, Question Generation and Open-domain Dialogue*
+* 2015-2016, **M.Sc.**, *Computing Science*, University College Cork
+* 2011-2015, **B.Eng.**, *Software Engineering*, Nanjing University of Information Science & Technology
 
 Employment
 ======
@@ -47,7 +48,7 @@ in *Proceedings of the 60th Annual Meeting of the Association for Computational 
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Longyue Wang, Liting Zhou, Cathal Gurrin, Linyi Yang, Yi Yu, Yvette Graham, and Jennifer Foster  
 in *Proceedings of the 31st ACM International Conference on Multimedia (**ACM MM'23**)*, Ottawa ON, Canada: Association for Computing Machinery, 2023, pp. 3975–3984, isbn: 9798400701085. 
 * Document-Level Machine Translation with Large Language Models [[PDF](https://aclanthology.org/2023.emnlp-main.1036.pdf)] [[Bibtex](/publications/bibtex/emnlp2023.bib)]   
-Longyue Wang†, Chenyang Lyu†, **Tianbo Ji**†, Zhirui Zhang, Dian Yu, Shuming Shi, and Zhaopeng Tu  
+Longyue Wang<sup>†</sup>, Chenyang Lyu<sup>†</sup>, **Tianbo Ji**<sup>†</sup>, Zhirui Zhang, Dian Yu, Shuming Shi, and Zhaopeng Tu  
 in *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**)*, Singapore: Association for Computational Linguistics, Dec. 2023, pp. 16 646–16 661.
 * Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447275)] [[Bibtex](/publications/bibtex/icassp2024.bib)]   
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Yi Yu, and Longyue Wang  
