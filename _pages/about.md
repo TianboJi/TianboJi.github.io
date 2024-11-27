@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Brief Biography
+<font style="color: #87CEEB">Brief Biography</font>
 ======
 
 I am currently a lecturer from School of Transportation and Civil Engineering, Nantong University. In 2022, I obtained my PhD at Dublin City University (funded by ADAPT Centre), and I was co-supervised by [Qun Liu](https://liuquncn.github.io/index_en.html), [Yvette Graham](https://www.tcd.ie/scss/people/academic-staff/ygraham/), and [Gareth Jones](https://www.dcu.ie/computing/people/gareth-jones). My research interests focus on Natural Language Processing, Large Language Models, Multi-modal Feature Fusion, Intelligent Transportation Systems and Multidisciplinary Applications of AI.  
@@ -17,7 +17,7 @@ jitianbo@ntu.edu.cn
 tianbo.ji2@mail.dcu.ie (receive-only)
 
 
-Education
+<font style="color: #87CEEB">Education</font>
 ======
 
 * 2017-2022, **Ph.D.**, *Computer Science*, Dublin City University  
@@ -25,16 +25,17 @@ Thesis title: *Human Evaluation and Statistical Analyses on Machine Reading Comp
 * 2015-2016, **M.Sc.**, *Computing Science*, University College Cork
 * 2011-2015, **B.Eng.**, *Software Engineering*, Nanjing University of Information Science & Technology
 
-Employment
+<font style="color: #87CEEB">Employment</font>
 ======
 
 * 2023 -- now, **Lecturer**, *School of Transportation and Civil Engineering, Nantong University*, Nantong, Jiangsu, China
 * 2021 (Jan -- Jun), **Internship**, *Huawei Noah's Ark Lab*, Shenzhen, Guangdong, China
 * 2017 -- 2019, **Research Assistant**, *Maynooth University*, Maynooth, Co. Kildare, Ireland
 
-Publications
+
+<font style="color: #87CEEB">Publications</font>
 ======
-Listed below are some papers for which I am the (co-)first or corresponding author. You can find all my publication on [Google Scholar](https://scholar.google.com/citations?user=mLc1OxUAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Tianbo-Ji).  
+Listed below are some *peer-reviewed* papers for which I am the *(co-)first* or *corresponding* author. You can find all my publication on [Google Scholar](https://scholar.google.com/citations?user=mLc1OxUAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Tianbo-Ji).  
 <!-- **Corresponding Author*  
 *†Equal Contribution* -->
 
@@ -63,25 +64,28 @@ in *Proceedings of the 2020 Conference on Human Information Interaction and Retr
 **Tianbo Ji**, Chenyang Lyu*, Gareth Jones, Liting Zhou, and Yvette Graham*  
 *Entropy*, vol. 24, no. 11, 2022, issn: 1099-4300.
 
-Academic Activities
+
+<font style="color: #87CEEB">Academic Activities</font>
 ======
 
-Reviewer
+<font style="color: #AFEEEE">Reviewer</font>
 ------
 * **Journal**: Artificial Intelligence Review, Journal of Supercomputing, New Generation Computing, Drones, PLOS One, Applied Sciences, Social Sciences & Humanities Open.
 * **Conference**: Annual Meeting of the Association for Computational Linguistics (ACL), European Conference on Information Retrieval (ECIR), International Conference on Multimedia Modeling (MMM).
 
-Project
+<font style="color: #AFEEEE">Project</font>
 ------
 * National Natural Science Foundation of China (52272322)
 
-Membership
+
+<font style="color: #AFEEEE">Membership</font>
 ------
 * *Member*, **IEEE** (Institute of Electrical and Electronics Engineers), with *IEEE Computer Society* and *IEEE Intelligent Transportation Systems Society*
 * *Member*, **CCF** (China Computer Federation)
 * *Member*, **CAAI** (Chinese Association for Artificial Intelligence)
   
-Teaching
+
+<font style="color: #87CEEB">Teaching</font>
 ======
 * **Transportation Big Data Analysis and Processing**, *B.Eng. in Traffic Engineering (Junior)*
 * **Course Design of Transportation Big Data Analysis and Processing**, *B.Eng. in Traffic Engineering (Junior)*
