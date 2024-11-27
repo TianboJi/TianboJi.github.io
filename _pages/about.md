@@ -30,8 +30,8 @@ Thesis title: *Human Evaluation and Statistical Analyses on Machine Reading Comp
 * 2017 -- 2019, **Research Assistant**, *Maynooth University*, Maynooth, Co. Kildare, Ireland
 
 
-<font style="color: #87CEEB">Publications</font>
-======
+# <font style="color: #87CEEB">Publications</font>
+
 Listed below are some *peer-reviewed* papers for which I am the *(co-)first* or *corresponding* author. You can find all my publication on [Google Scholar](https://scholar.google.com/citations?user=mLc1OxUAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Tianbo-Ji).  
 <!-- **Corresponding Author*  
 *†Equal Contribution* -->
@@ -62,28 +62,28 @@ in *Proceedings of the 2020 Conference on Human Information Interaction and Retr
 *Entropy*, vol. 24, no. 11, 2022, issn: 1099-4300.
 
 
-<font style="color: #87CEEB">Academic Activities</font>
-======
+# <font style="color: #87CEEB">Academic Activities</font>
 
-<font style="color: #AFEEEE">Reviewer</font>
-------
+
+## <font style="color: #AFEEEE">Reviewer</font>
+
 * **Journal**: Artificial Intelligence Review, Journal of Supercomputing, New Generation Computing, Drones, PLOS One, Applied Sciences, Social Sciences & Humanities Open.
 * **Conference**: Annual Meeting of the Association for Computational Linguistics (ACL), European Conference on Information Retrieval (ECIR), International Conference on Multimedia Modeling (MMM).
 
-<font style="color: #AFEEEE">Project</font>
-------
+## <font style="color: #AFEEEE">Project</font>
+
 * National Natural Science Foundation of China (52272322)
 
 
-<font style="color: #AFEEEE">Membership</font>
-------
+## <font style="color: #AFEEEE">Membership</font>  
+
 * *Member*, **IEEE** (Institute of Electrical and Electronics Engineers), with *IEEE Computer Society* and *IEEE Intelligent Transportation Systems Society*
 * *Member*, **CCF** (China Computer Federation)
 * *Member*, **CAAI** (Chinese Association for Artificial Intelligence)
   
 
-<font style="color: #87CEEB">Teaching</font>
-======
+# <font style="color: #87CEEB">Teaching</font> 
+
 * **Transportation Big Data Analysis and Processing**, *B.Eng. in Traffic Engineering (Junior)*
 * **Course Design of Transportation Big Data Analysis and Processing**, *B.Eng. in Traffic Engineering (Junior)*
 * **Transportation Big Data Analysis and Processing**, *B.Eng. in Traffic Devices (Junior)* 
