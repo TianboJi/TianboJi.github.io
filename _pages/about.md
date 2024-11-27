@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-<font style="color: #87CEEB">Brief Biography</font>
-======
+# <font style="color: #87CEEB">Brief Biography</font>
 
 I am currently a lecturer from School of Transportation and Civil Engineering, Nantong University. In 2022, I obtained my PhD at Dublin City University (funded by ADAPT Centre), and I was co-supervised by [Qun Liu](https://liuquncn.github.io/index_en.html), [Yvette Graham](https://www.tcd.ie/scss/people/academic-staff/ygraham/), and [Gareth Jones](https://www.dcu.ie/computing/people/gareth-jones). My research interests focus on Natural Language Processing, Large Language Models, Multi-modal Feature Fusion, Intelligent Transportation Systems and Multidisciplinary Applications of AI.  
 ***Emails:***  
@@ -17,16 +16,14 @@ jitianbo@ntu.edu.cn
 tianbo.ji2@mail.dcu.ie (receive-only)
 
 
-<font style="color: #87CEEB">Education</font>
-======
+# <font style="color: #87CEEB">Education</font>
 
 * 2017-2022, **Ph.D.**, *Computer Science*, Dublin City University  
 Thesis title: *Human Evaluation and Statistical Analyses on Machine Reading Comprehension, Question Generation and Open-domain Dialogue*
 * 2015-2016, **M.Sc.**, *Computing Science*, University College Cork
 * 2011-2015, **B.Eng.**, *Software Engineering*, Nanjing University of Information Science & Technology
 
-<font style="color: #87CEEB">Employment</font>
-======
+# <font style="color: #87CEEB">Employment</font>
 
 * 2023 -- now, **Lecturer**, *School of Transportation and Civil Engineering, Nantong University*, Nantong, Jiangsu, China
 * 2021 (Jan -- Jun), **Internship**, *Huawei Noah's Ark Lab*, Shenzhen, Guangdong, China
