@@ -119,7 +119,16 @@ in *Proceedings of the 2020 Conference on Human Information Interaction and Retr
 * **Transportation Big Data Theory**, *Lecturer* for *First-year Postgraduate* students majoring in Transportation (M.Eng.)
 * **Professional English for Traffic Engineering**, *Guest Lecturer* for *First-year Postgraduate* students majoring in Transportation (M.Eng.)
 
-<div style="width:50%">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p style="text-align: center">Site Analytics</p>
+<div style="width:45%;margin: 0 auto;">
 <script 
     type="text/javascript" 
     id="clustrmaps" 
