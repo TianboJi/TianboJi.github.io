@@ -118,20 +118,3 @@ in *Proceedings of the 2020 Conference on Human Information Interaction and Retr
 * **Transportation Big Data Analysis and Processing**, *Lecturer* for *Junior Undergraduate* students majoring in Traffic Device (B.Eng.)
 * **Transportation Big Data Theory**, *Lecturer* for *First-year Postgraduate* students majoring in Transportation (M.Eng.)
 * **Professional English for Traffic Engineering**, *Guest Lecturer* for *First-year Postgraduate* students majoring in Transportation (M.Eng.)
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p style="text-align: center">Site Analytics</p>
-<div style="width:45%;margin: 0 auto;">
-<script 
-    type="text/javascript" 
-    id="clustrmaps" 
-    src="//clustrmaps.com/map_v2.js?d=zfDjHAZYEsSi-VUXTw30ByfpYZNgVA9RRX7XvQLKc9o&cl=ffffff&w=a">
-</script>
-</div>
