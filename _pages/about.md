@@ -36,13 +36,9 @@ Listed below are some *peer-reviewed* papers for which I am the *(<sup>†</sup>
 <!-- **Corresponding Author*  
 *†Equal Contribution* -->
 
-<!-- * **Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control**   [[DOI](https://doi.org/)] [[Bibtex](/publications/bibtex/tits2024.bib)]   
-**Tianbo Ji**, Quanwei Sun, Kechen Li, and Zexia Duan\*  
-*IEEE Transactions on Intelligent Transportation Systems* -->
-
-<!-- * **A Framework for Explainable Toxic Language Detection in Online Game Conversations via Distilling GPT-4** [[DOI](https://doi.org/)] [[Bibtex](/publications/bibtex/asc2025.bib)]   
+<!-- * **A Framework for Explainable Toxic Language Detection in Online Game Conversations via Distilling GPT-4**  [[DOI](https://doi.org/)] [[Bibtex](/publications/bibtex/tcyb2025.bib)]   
 **Tianbo Ji**, Quanwei Sun, Peng Cheng, Kechen Li, Zexia Duan\*, Chenyang Lyu, Peng Ping, and Zhichao Cao  
-*Applied Soft Computing* -->
+*IEEE Transactions on Cybernetics* -->
 
 <!-- * **Adaptive traffic signal control for energy efficiency using deep learning and consumer electronics**   [[DOI](https://doi.org/)] [[Bibtex](/publications/bibtex/tce2025.bib)]   
 **Tianbo Ji**, Peng Cheng, Kechen Li, Zhichao Cao, Zexia Duan\*, and Chenyang Lyu  
@@ -56,6 +52,9 @@ Zexia Duan, Yichi Zhang, Sihui Fan, and **Tianbo Ji\***
 Kechen Li, Mengyu Zhu, Yaotian Tao, and **Tianbo Ji\***   
 *Computers & Electrical Engineering* -->
 
+* **Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control** (*Early Acces*s) [[DOI](https://doi.org/10.1109/TITS.2024.3519661)] [[Bibtex](/publications/bibtex/tits2025.bib)]   
+**Tianbo Ji**, Quanwei Sun, Kechen Li, and Zexia Duan\*  
+*IEEE Transactions on Intelligent Transportation Systems*, 2025
 
 * **Urban Transport Emission Prediction Analysis through Machine Learning and Deep Learning Techniques** [[DOI](https://doi.org/10.1016/j.trd.2024.104389)] [[Bibtex](/publications/bibtex/trd2024.bib)]  
 **Tianbo Ji**, Kechen Li, Quanwei Sun, and Zexia Duan<sup>\*</sup>   
