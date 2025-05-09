@@ -30,7 +30,7 @@ small {
 }
 
 h1 + p, h2 + p, h1 + ul li, h2 + ul li {
-  font-size: 14px !important;
+  font-size: 1em !important;
 }
 
 </style>
