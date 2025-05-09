@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<style>
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+</style>
 
 # <font style="color: #87CEEB">Brief Biography</font>
 
@@ -120,7 +124,7 @@ Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Liting Zhou, and Cathal Gurrin
 
 ## <font style="color: #AFEEEE">Reviewer</font>
 
-* **Journal**: Information Processing \& Management, Artificial Intelligence Review, Journal of Supercomputing, New Generation Computing, etc.
+* **Journal**: Information Processing \& Management, Artificial Intelligence Review, Journal of Supercomputing, Aquacultural Engineering, New Generation Computing, etc.
 * **Conference**: Annual Meeting of the Association for Computational Linguistics (ACL), European Conference on Information Retrieval (ECIR), International Conference on Multimedia Modeling (MMM), etc.
 
 ## <font style="color: #AFEEEE">Project</font>
