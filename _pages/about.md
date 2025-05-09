@@ -19,7 +19,7 @@ h2 {
 h5 {
   font-family: Consolas, monospace;
 }
-h5 + ul {
+h5 + ul li{
   font-family: Consolas, monospace;
   font-size: 12px;
 }
