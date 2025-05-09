@@ -16,9 +16,14 @@ h1 {
 h2 {
   color: #AFEEEE
 }
+p {
+  font-size: 14px
+}
+li {
+  font-size: 14px
+}
 </style>
 
-<!-- # <font style="color: #87CEEB">Brief Biography</font> -->
 # Brief Biography
 I am currently a lecturer from [School of Transportation and Civil Engineering](https://jttm.ntu.edu.cn/), [Nantong University](https://www.ntu.edu.cn/). In 2022, I obtained my PhD in Computer Science (Natural Language Processing) at [Dublin City University](https://www.dcu.ie/) (funded by [ADAPT Centre](https://www.adaptcentre.ie/)), and I was co-supervised by [Qun Liu](https://liuquncn.github.io/index_en.html), [Yvette Graham](https://www.tcd.ie/scss/people/academic-staff/ygraham/), and [Gareth Jones](https://www.dcu.ie/computing/people/gareth-jones). My research interests mainly focus on Natural Language Processing (NLP), including the Evaluation of NLP, Large (Vision-)Language Models, and Visual Question Answering. Recently, I have extended my research to Multidisciplinary Applications of AI, such as Intelligent Transportation Systems (ITS), Transport Emission Prediction, and LLMs for Transportation.  
 ***Emails:***  
@@ -26,24 +31,24 @@ jitianbo@ntu.edu.cn
 tianbo.ji2@mail.dcu.ie (receive-only)
 
 
-# <font style="color: #87CEEB">Education</font>
+# Education
 
 * 2017 -- 2022, **Doctor of Philosophy (Ph.D.)**, *Computer Science*, ADAPT Centre at Dublin City University, Ireland  
 Thesis title: *Human Evaluation and Statistical Analyses on Machine Reading Comprehension, Question Generation and Open-domain Dialogue*
 * 2015 -- 2016, **Master of Science (M.Sc.)**, *Computing Science*, University College Cork, Ireland  
 * 2011 -- 2015, **Bachelor of Engineering (B.Eng.)**, *Software Engineering*, Nanjing University of Information Science & Technology, China
 
-# <font style="color: #87CEEB">Employment</font>
+# Employment
 
 * 2023 -- present, **Lecturer**, *School of Transportation and Civil Engineering, Nantong University*, Nantong, Jiangsu, China
 * 2021 (Jan -- Jun), **Research Internship**, *Huawei Noah's Ark Lab*, Shenzhen, Guangdong, China
 * 2017 -- 2019, **Research Assistant**, *Maynooth University*, Maynooth, Co. Kildare, Ireland
 
 
-# <font style="color: #87CEEB">Publications</font>
+# Publications
 
 Listed below are some *peer-reviewed* papers for which I am the *(<sup>†</sup>co-)first* or *\*corresponding* author. You can find all my publication on [Google Scholar](https://scholar.google.com/citations?user=mLc1OxUAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Tianbo-Ji).   
-<span style="font-family: Consolas, monospace;font-size: 12px;"><sub><small>[J] Journal Article</small></sub>  
+<span style="font-family: Consolas, monospace;"><sub><small>[J] Journal Article</small></sub>  
 <sub><small>[C] Conference Paper</small></sub>
 </span>
 
@@ -76,10 +81,8 @@ Zexia Duan, Yichi Zhang, Sihui Fan, and **Tianbo Ji\***
 *International Journal of Digital Earth*, 2026 -->
 
 
-<!-- <span style="font-family: Consolas, monospace;font-size: 12px;"></span> -->
-
 ##### <span style="font-family: Consolas, monospace;">【2025】</span>
-* <span style="font-family: Consolas, monospace;font-size: 12px;font-size: 12px;">[J]**Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control** (*Early Access*) [[DOI](https://doi.org/10.1109/TITS.2024.3519661)][[Bibtex](/publications/bibtex/tits2025.bib)]    
+* <span style="font-family: Consolas, monospace;font-size: 12px;">[J]**Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control** (*Early Access*) [[DOI](https://doi.org/10.1109/TITS.2024.3519661)][[Bibtex](/publications/bibtex/tits2025.bib)]    
 **Tianbo Ji**, Quanwei Sun, Kechen Li, and Zexia Duan    
 *IEEE Transactions on Intelligent Transportation Systems*, 2025</span> 
 
@@ -125,7 +128,7 @@ Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Liting Zhou, and Cathal Gurrin
 
 
 
-# <font style="color: #87CEEB">Academic Activities</font>
+# Academic Activities
 
 
 ## Reviewer
@@ -133,19 +136,19 @@ Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Liting Zhou, and Cathal Gurrin
 * **Journal**: Information Processing & Management, Artificial Intelligence Review, Journal of Supercomputing, Aquacultural Engineering, New Generation Computing, etc.
 * **Conference**: Annual Meeting of the Association for Computational Linguistics (ACL), European Conference on Information Retrieval (ECIR), International Conference on Multimedia Modeling (MMM), etc.
 
-## <font style="color: #AFEEEE">Project</font>
+## Project
 
 * National Natural Science Foundation of China (52272322)
 
 
-## <font style="color: #AFEEEE">Membership</font>  
+## Membership
 
 * *Member*, **IEEE** (Institute of Electrical and Electronics Engineers), with *IEEE Computer Society* and *IEEE Intelligent Transportation Systems Society*
 * *Member*, **CCF** (China Computer Federation)
 * *Member*, **CAAI** (Chinese Association for Artificial Intelligence)
   
 
-# <font style="color: #87CEEB">Teaching</font> 
+# Teaching
 
 * **Transportation Big Data Analysis and Processing**, *Lecturer* for *Junior Undergraduate* students majoring in Traffic Engineering (B.Eng.)
 * **Course Design of Transportation Big Data Analysis and Processing**, *Lecturer* for *Junior Undergraduate* students majoring in Traffic Engineering (B.Eng.)
