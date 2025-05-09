@@ -11,10 +11,10 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 h1 {
-  color: #87CEEB
+  color: #87D7FF
 }
 h2 {
-  color: #AFEEEE
+  color: #98FB98
 }
 h5 {
   font-family: Consolas, monospace;
