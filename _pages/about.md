@@ -10,10 +10,16 @@ redirect_from:
 body {
   font-family: "Times New Roman", Times, serif;
 }
+h1 {
+  color: #87CEEB
+}
+h2 {
+  color: #AFEEEE
+}
 </style>
 
-# <font style="color: #87CEEB">Brief Biography</font>
-
+<!-- # <font style="color: #87CEEB">Brief Biography</font> -->
+# Brief Biography
 I am currently a lecturer from [School of Transportation and Civil Engineering](https://jttm.ntu.edu.cn/), [Nantong University](https://www.ntu.edu.cn/). In 2022, I obtained my PhD in Computer Science (Natural Language Processing) at [Dublin City University](https://www.dcu.ie/) (funded by [ADAPT Centre](https://www.adaptcentre.ie/)), and I was co-supervised by [Qun Liu](https://liuquncn.github.io/index_en.html), [Yvette Graham](https://www.tcd.ie/scss/people/academic-staff/ygraham/), and [Gareth Jones](https://www.dcu.ie/computing/people/gareth-jones). My research interests mainly focus on Natural Language Processing (NLP), including the Evaluation of NLP, Large (Vision-)Language Models, and Visual Question Answering. Recently, I have extended my research to Multidisciplinary Applications of AI, such as Intelligent Transportation Systems (ITS), Transport Emission Prediction, and LLMs for Transportation.  
 ***Emails:***  
 jitianbo@ntu.edu.cn  
@@ -37,7 +43,7 @@ Thesis title: *Human Evaluation and Statistical Analyses on Machine Reading Comp
 # <font style="color: #87CEEB">Publications</font>
 
 Listed below are some *peer-reviewed* papers for which I am the *(<sup>†</sup>co-)first* or *\*corresponding* author. You can find all my publication on [Google Scholar](https://scholar.google.com/citations?user=mLc1OxUAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Tianbo-Ji).   
-<span style="font-family: Consolas, monospace;"><sub><small>[J] Journal Article</small></sub>  
+<span style="font-family: Consolas, monospace;font-size: 12px;"><sub><small>[J] Journal Article</small></sub>  
 <sub><small>[C] Conference Paper</small></sub>
 </span>
 
@@ -70,10 +76,10 @@ Zexia Duan, Yichi Zhang, Sihui Fan, and **Tianbo Ji\***
 *International Journal of Digital Earth*, 2026 -->
 
 
-<!-- <span style="font-family: Consolas, monospace;"></span> -->
+<!-- <span style="font-family: Consolas, monospace;font-size: 12px;"></span> -->
 
 ##### <span style="font-family: Consolas, monospace;">【2025】</span>
-* <span style="font-family: Consolas, monospace;">[J]**Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control** (*Early Access*) [[DOI](https://doi.org/10.1109/TITS.2024.3519661)][[Bibtex](/publications/bibtex/tits2025.bib)]    
+* <span style="font-family: Consolas, monospace;font-size: 12px;font-size: 12px;">[J]**Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control** (*Early Access*) [[DOI](https://doi.org/10.1109/TITS.2024.3519661)][[Bibtex](/publications/bibtex/tits2025.bib)]    
 **Tianbo Ji**, Quanwei Sun, Kechen Li, and Zexia Duan    
 *IEEE Transactions on Intelligent Transportation Systems*, 2025</span> 
 
@@ -81,39 +87,39 @@ Zexia Duan, Yichi Zhang, Sihui Fan, and **Tianbo Ji\***
 
 
 ##### <span style="font-family: Consolas, monospace;">【2024】</span>
-* <span style="font-family: Consolas, monospace;">[J]**Urban Transport Emission Prediction Analysis through Machine Learning and Deep Learning Techniques** [[DOI](https://doi.org/10.1016/j.trd.2024.104389)][[Bibtex](/publications/bibtex/trd2024.bib)]  
+* <span style="font-family: Consolas, monospace;font-size: 12px;">[J]**Urban Transport Emission Prediction Analysis through Machine Learning and Deep Learning Techniques** [[DOI](https://doi.org/10.1016/j.trd.2024.104389)][[Bibtex](/publications/bibtex/trd2024.bib)]  
 **Tianbo Ji**, Kechen Li, Quanwei Sun, and Zexia Duan   
 *Transportation Research Part D: Transport and Environment*, 2024</span>
 
 
-* <span style="font-family: Consolas, monospace;">[C]**Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks**  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447275)][[Bibtex](/publications/bibtex/icassp2024.bib)]   
+* <span style="font-family: Consolas, monospace;font-size: 12px;">[C]**Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks**  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447275)][[Bibtex](/publications/bibtex/icassp2024.bib)]   
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Yi Yu, and Longyue Wang  
 *2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)*</span>
 
 ##### <span style="font-family: Consolas, monospace;">【2023】</span>
 
-* <span style="font-family: Consolas, monospace;">[C]**Graph-based video-language learning with multi-grained audio-visual alignment**  [[DOI](https://doi.org/10.1145/3581783.3612132)][[Bibtex](/publications/bibtex/acmmm2023.bib)]   
+* <span style="font-family: Consolas, monospace;font-size: 12px;">[C]**Graph-based video-language learning with multi-grained audio-visual alignment**  [[DOI](https://doi.org/10.1145/3581783.3612132)][[Bibtex](/publications/bibtex/acmmm2023.bib)]   
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Longyue Wang, Liting Zhou, Cathal Gurrin, Linyi Yang, Yi Yu, Yvette Graham, and Jennifer Foster  
 *Proceedings of the 31st ACM International Conference on Multimedia (**ACMMM 2023**)*</span>
 
-* <span style="font-family: Consolas, monospace;">[C]**Document-Level Machine Translation with Large Language Models** [[PDF](https://aclanthology.org/2023.emnlp-main.1036.pdf)][[Bibtex](/publications/bibtex/emnlp2023.bib)]   
+* <span style="font-family: Consolas, monospace;font-size: 12px;">[C]**Document-Level Machine Translation with Large Language Models** [[PDF](https://aclanthology.org/2023.emnlp-main.1036.pdf)][[Bibtex](/publications/bibtex/emnlp2023.bib)]   
 Longyue Wang<sup>†</sup>, Chenyang Lyu<sup>†</sup>, **Tianbo Ji**<sup>†</sup>, Zhirui Zhang, Dian Yu, Shuming Shi, and Zhaopeng Tu  
 *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**)*</span>
 
-* <span style="font-family: Consolas, monospace;">[C]**Gated Multi-modal Fusion with Cross-modal Contrastive Learning for Video Question Answering** [[DOI](https://doi.org/10.1007/978-3-031-44195-0_35)][[Bibtex](/publications/bibtex/icann2023.bib)]   
+* <span style="font-family: Consolas, monospace;font-size: 12px;">[C]**Gated Multi-modal Fusion with Cross-modal Contrastive Learning for Video Question Answering** [[DOI](https://doi.org/10.1007/978-3-031-44195-0_35)][[Bibtex](/publications/bibtex/icann2023.bib)]   
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Liting Zhou, and Cathal Gurrin  
 *Artificial Neural Networks and Machine Learning (**ICANN 2023**)*</span>
 
 ##### <span style="font-family: Consolas, monospace;">【2022 & Before】</span>
-* <span style="font-family: Consolas, monospace;">[C]**Achieving Reliable Human Assessment of Open-Domain Dialogue Systems** [[PDF](https://aclanthology.org/2022.acl-long.445.pdf)][[Bibtex](/publications/bibtex/acl2022.bib)]   
+* <span style="font-family: Consolas, monospace;font-size: 12px;">[C]**Achieving Reliable Human Assessment of Open-Domain Dialogue Systems** [[PDF](https://aclanthology.org/2022.acl-long.445.pdf)][[Bibtex](/publications/bibtex/acl2022.bib)]   
 **Tianbo Ji**, Yvette Graham, Gareth Jones, Chenyang Lyu, and Qun Liu  
 *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**)*</span>
 
-* <span style="font-family: Consolas, monospace;">[J]**QAScore - An Unsupervised Unreferenced Metric for the Question Generation Evaluation** [[DOI](https://doi.org/10.3390/e24111514)][[Bibtex](/publications/bibtex/entropy.bib)]   
+* <span style="font-family: Consolas, monospace;font-size: 12px;">[J]**QAScore - An Unsupervised Unreferenced Metric for the Question Generation Evaluation** [[DOI](https://doi.org/10.3390/e24111514)][[Bibtex](/publications/bibtex/entropy.bib)]   
 **Tianbo Ji**, Chenyang Lyu, Gareth Jones, Liting Zhou, and Yvette Graham   
 *Entropy*, 2022</span>
 
-* <span style="font-family: Consolas, monospace;">[C]**Contrasting Human Opinion of Non-Factoid Question Answering with Automatic Evaluation** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3343413.3377996)][[Bibtex](/publications/bibtex/chiir2020.bib)]   
+* <span style="font-family: Consolas, monospace;font-size: 12px;">[C]**Contrasting Human Opinion of Non-Factoid Question Answering with Automatic Evaluation** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3343413.3377996)][[Bibtex](/publications/bibtex/chiir2020.bib)]   
 **Tianbo Ji**, Yvette Graham, and Gareth Jones  
 *Proceedings of the 2020 Conference on Human Information Interaction and Retrieval (**CHIIR 2020**)*</span>
 
@@ -122,9 +128,9 @@ Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Liting Zhou, and Cathal Gurrin
 # <font style="color: #87CEEB">Academic Activities</font>
 
 
-## <font style="color: #AFEEEE">Reviewer</font>
+## Reviewer
 
-* **Journal**: Information Processing \& Management, Artificial Intelligence Review, Journal of Supercomputing, Aquacultural Engineering, New Generation Computing, etc.
+* **Journal**: Information Processing & Management, Artificial Intelligence Review, Journal of Supercomputing, Aquacultural Engineering, New Generation Computing, etc.
 * **Conference**: Annual Meeting of the Association for Computational Linguistics (ACL), European Conference on Information Retrieval (ECIR), International Conference on Multimedia Modeling (MMM), etc.
 
 ## <font style="color: #AFEEEE">Project</font>
@@ -145,4 +151,5 @@ Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Liting Zhou, and Cathal Gurrin
 * **Course Design of Transportation Big Data Analysis and Processing**, *Lecturer* for *Junior Undergraduate* students majoring in Traffic Engineering (B.Eng.)
 * **Transportation Big Data Analysis and Processing**, *Lecturer* for *Junior Undergraduate* students majoring in Traffic Device (B.Eng.)
 * **Transportation Big Data Theory**, *Lecturer* for *First-year Postgraduate* students majoring in Transportation (M.Eng.)
-* **Professional English for Traffic Engineering**, *Guest Lecturer* for *First-year Postgraduate* students majoring in Transportation (M.Eng.)
+* **Transportation Big Data Theory (English)**, *Lecturer* for *Postgraduate* international students majoring in Transportation (M.Eng.)
+<!-- * **Professional English for Traffic Engineering**, *Guest Lecturer* for *First-year Postgraduate* students majoring in Transportation (M.Eng.) -->
