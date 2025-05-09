@@ -21,11 +21,11 @@ h5 {
 }
 h5 + ul li{
   font-family: Consolas, monospace;
-  font-size: 12px;
+  font-size: 12px !important;
 }
 small {
   font-family: Consolas, monospace;
-  font-size: 10px
+  font-size: 10px;
 }
 
 h1 + p, h2 + p, h1 + ul li, h2 + ul li {
