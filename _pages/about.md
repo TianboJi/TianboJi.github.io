@@ -18,15 +18,15 @@ h2 {
 }
 h5 {
   font-family: Consolas, monospace;
-  font-size: 0.9em !important;
+  font-size: 0.7em !important;
 }
 h5 + ul li{
   font-family: Consolas, monospace;
-  font-size: 0.95em !important;
+  font-size: 0.75em !important;
 }
 small {
   font-family: Consolas, monospace;
-  font-size: 0.8em !important;
+  font-size: 0.6em !important;
 }
 
 h1 + p, h2 + p, h1 + ul li, h2 + ul li {
