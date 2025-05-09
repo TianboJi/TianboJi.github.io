@@ -27,12 +27,11 @@ small {
   font-family: Consolas, monospace;
   font-size: 10px
 }
-p {
+
+h1 + p, h2 + p, h1 + ul li, h2 + ul li {
   font-size: 14px
 }
-li {
-  font-size: 14px
-}
+
 </style>
 
 # Brief Biography
