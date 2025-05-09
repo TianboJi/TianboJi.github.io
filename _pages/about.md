@@ -66,12 +66,12 @@ Zexia Duan, Yichi Zhang, Sihui Fan, and **Tianbo Ji\***
 *International Journal of Digital Earth*, 2026 -->
 
 
-<span style="font-family: Consolas, monospace;">
+<!-- <span style="font-family: Consolas, monospace;"></span> -->
 
 ##### 【2025】  
-* [J] **Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control** (*Early Access*) [[DOI](https://doi.org/10.1109/TITS.2024.3519661)] [[Bibtex](/publications/bibtex/tits2025.bib)]    
+* <span style="font-family: Consolas, monospace;">[J] **Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control** (*Early Access*) [[DOI](https://doi.org/10.1109/TITS.2024.3519661)] [[Bibtex](/publications/bibtex/tits2025.bib)]    
 **Tianbo Ji**, Quanwei Sun, Kechen Li, and Zexia Duan    
-*IEEE Transactions on Intelligent Transportation Systems*, 2025  
+*IEEE Transactions on Intelligent Transportation Systems*, 2025</span> 
 
 
 
@@ -80,7 +80,7 @@ Zexia Duan, Yichi Zhang, Sihui Fan, and **Tianbo Ji\***
 * [J] **Urban Transport Emission Prediction Analysis through Machine Learning and Deep Learning Techniques** [[DOI](https://doi.org/10.1016/j.trd.2024.104389)] [[Bibtex](/publications/bibtex/trd2024.bib)]  
 **Tianbo Ji**, Kechen Li, Quanwei Sun, and Zexia Duan   
 *Transportation Research Part D: Transport and Environment*, 2024  
-</span>
+
 
 * [C] **Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks**  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447275)] [[Bibtex](/publications/bibtex/icassp2024.bib)]   
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Yi Yu, and Longyue Wang  
