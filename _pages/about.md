@@ -120,8 +120,8 @@ Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Liting Zhou, and Cathal Gurrin
 
 ## <font style="color: #AFEEEE">Reviewer</font>
 
-* **Journal**: Artificial Intelligence Review, Journal of Supercomputing, New Generation Computing, Drones, PLOS One, Applied Sciences, Social Sciences & Humanities Open.
-* **Conference**: Annual Meeting of the Association for Computational Linguistics (ACL), European Conference on Information Retrieval (ECIR), International Conference on Multimedia Modeling (MMM).
+* **Journal**: Information Processing \& Management, Artificial Intelligence Review, Journal of Supercomputing, New Generation Computing, etc.
+* **Conference**: Annual Meeting of the Association for Computational Linguistics (ACL), European Conference on Information Retrieval (ECIR), International Conference on Multimedia Modeling (MMM), etc.
 
 ## <font style="color: #AFEEEE">Project</font>
 
