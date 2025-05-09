@@ -33,7 +33,7 @@ Thesis title: *Human Evaluation and Statistical Analyses on Machine Reading Comp
 # <font style="color: #87CEEB">Publications</font>
 
 Listed below are some *peer-reviewed* papers for which I am the *(<sup>†</sup>co-)first* or *\*corresponding* author. You can find all my publication on [Google Scholar](https://scholar.google.com/citations?user=mLc1OxUAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Tianbo-Ji).   
-<sub><small>[J] Journal Article</small></sub>  
+<span style="font-family: Consolas, monospace;"><sub><small>[J] Journal Article</small></sub>  
 <sub><small>[C] Conference Paper</small></sub>
 
 
@@ -65,12 +65,15 @@ Listed below are some *peer-reviewed* papers for which I am the *(<sup>†</sup>
 Zexia Duan, Yichi Zhang, Sihui Fan, and **Tianbo Ji\***  
 *International Journal of Digital Earth*, 2026 -->
 
+
+
 ##### 【2025】  
 * [J] **Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control** (*Early Access*) [[DOI](https://doi.org/10.1109/TITS.2024.3519661)] [[Bibtex](/publications/bibtex/tits2025.bib)]    
 **Tianbo Ji**, Quanwei Sun, Kechen Li, and Zexia Duan    
 *IEEE Transactions on Intelligent Transportation Systems*, 2025  
 
-  
+
+
 
 ##### 【2024】 
 * [J] **Urban Transport Emission Prediction Analysis through Machine Learning and Deep Learning Techniques** [[DOI](https://doi.org/10.1016/j.trd.2024.104389)] [[Bibtex](/publications/bibtex/trd2024.bib)]  
@@ -80,7 +83,7 @@ Zexia Duan, Yichi Zhang, Sihui Fan, and **Tianbo Ji\***
 
 * [C] **Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks**  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447275)] [[Bibtex](/publications/bibtex/icassp2024.bib)]   
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Yi Yu, and Longyue Wang  
-*2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)*
+*2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)*   
 
 ##### 【2023】 
 
@@ -110,6 +113,7 @@ Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Liting Zhou, and Cathal Gurrin
 **Tianbo Ji**, Yvette Graham, and Gareth Jones  
 *Proceedings of the 2020 Conference on Human Information Interaction and Retrieval (**CHIIR 2020**)*
 
+</span>
 
 # <font style="color: #87CEEB">Academic Activities</font>
 
