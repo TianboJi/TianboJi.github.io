@@ -68,7 +68,7 @@ Zexia Duan, Yichi Zhang, Sihui Fan, and **Tianbo Ji\***
 
 <!-- <span style="font-family: Consolas, monospace;"></span> -->
 
-##### 【2025】  
+##### <span style="font-family: Consolas, monospace;">【2025】</span>
 * <span style="font-family: Consolas, monospace;">[J] **Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control** (*Early Access*) [[DOI](https://doi.org/10.1109/TITS.2024.3519661)] [[Bibtex](/publications/bibtex/tits2025.bib)]    
 **Tianbo Ji**, Quanwei Sun, Kechen Li, and Zexia Duan    
 *IEEE Transactions on Intelligent Transportation Systems*, 2025</span> 
@@ -76,43 +76,42 @@ Zexia Duan, Yichi Zhang, Sihui Fan, and **Tianbo Ji\***
 
 
 
-##### 【2024】 
-* [J] **Urban Transport Emission Prediction Analysis through Machine Learning and Deep Learning Techniques** [[DOI](https://doi.org/10.1016/j.trd.2024.104389)] [[Bibtex](/publications/bibtex/trd2024.bib)]  
+##### <span style="font-family: Consolas, monospace;">【2024】</span>
+* <span style="font-family: Consolas, monospace;">[J] **Urban Transport Emission Prediction Analysis through Machine Learning and Deep Learning Techniques** [[DOI](https://doi.org/10.1016/j.trd.2024.104389)] [[Bibtex](/publications/bibtex/trd2024.bib)]  
 **Tianbo Ji**, Kechen Li, Quanwei Sun, and Zexia Duan   
-*Transportation Research Part D: Transport and Environment*, 2024  
+*Transportation Research Part D: Transport and Environment*, 2024</span>
 
 
-* [C] **Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks**  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447275)] [[Bibtex](/publications/bibtex/icassp2024.bib)]   
+* <span style="font-family: Consolas, monospace;">[C] **Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks**  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447275)] [[Bibtex](/publications/bibtex/icassp2024.bib)]   
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Yi Yu, and Longyue Wang  
-*2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)*   
+*2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)*</span>
 
-##### 【2023】 
+##### <span style="font-family: Consolas, monospace;">【2023】</span>
 
-* [C] **Graph-based video-language learning with multi-grained audio-visual alignment**  [[DOI](https://doi.org/10.1145/3581783.3612132)] [[Bibtex](/publications/bibtex/acmmm2023.bib)]   
+* <span style="font-family: Consolas, monospace;"[C] **Graph-based video-language learning with multi-grained audio-visual alignment**  [[DOI](https://doi.org/10.1145/3581783.3612132)] [[Bibtex](/publications/bibtex/acmmm2023.bib)]   
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Longyue Wang, Liting Zhou, Cathal Gurrin, Linyi Yang, Yi Yu, Yvette Graham, and Jennifer Foster  
-*Proceedings of the 31st ACM International Conference on Multimedia (**ACMMM 2023**)*
+*Proceedings of the 31st ACM International Conference on Multimedia (**ACMMM 2023**)*></span>
 
-* [C] **Document-Level Machine Translation with Large Language Models** [[PDF](https://aclanthology.org/2023.emnlp-main.1036.pdf)] [[Bibtex](/publications/bibtex/emnlp2023.bib)]   
+* <span style="font-family: Consolas, monospace;">[C] **Document-Level Machine Translation with Large Language Models** [[PDF](https://aclanthology.org/2023.emnlp-main.1036.pdf)] [[Bibtex](/publications/bibtex/emnlp2023.bib)]   
 Longyue Wang<sup>†</sup>, Chenyang Lyu<sup>†</sup>, **Tianbo Ji**<sup>†</sup>, Zhirui Zhang, Dian Yu, Shuming Shi, and Zhaopeng Tu  
-*Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**)*
+*Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**)*</span>
 
-* [C] **Gated Multi-modal Fusion with Cross-modal Contrastive Learning for Video Question Answering** [[DOI](https://doi.org/10.1007/978-3-031-44195-0_35)] [[Bibtex](/publications/bibtex/icann2023.bib)]   
+* <span style="font-family: Consolas, monospace;">[C] **Gated Multi-modal Fusion with Cross-modal Contrastive Learning for Video Question Answering** [[DOI](https://doi.org/10.1007/978-3-031-44195-0_35)] [[Bibtex](/publications/bibtex/icann2023.bib)]   
 Chenyang Lyu, Wenxi Li, **Tianbo Ji\***, Liting Zhou, and Cathal Gurrin  
-*Artificial Neural Networks and Machine Learning (**ICANN 2023**)*
+*Artificial Neural Networks and Machine Learning (**ICANN 2023**)*</span>
 
-##### 【2022 & Before】
-
-* [C] **Achieving Reliable Human Assessment of Open-Domain Dialogue Systems** [[PDF](https://aclanthology.org/2022.acl-long.445.pdf)] [[Bibtex](/publications/bibtex/acl2022.bib)]   
+##### <span style="font-family: Consolas, monospace;">【2022 & Before】</span>
+* <span style="font-family: Consolas, monospace;">[C] **Achieving Reliable Human Assessment of Open-Domain Dialogue Systems** [[PDF](https://aclanthology.org/2022.acl-long.445.pdf)] [[Bibtex](/publications/bibtex/acl2022.bib)]   
 **Tianbo Ji**, Yvette Graham, Gareth Jones, Chenyang Lyu, and Qun Liu  
-*Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**)*
+*Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL 2022**)*</span>
 
-* [J] **QAScore - An Unsupervised Unreferenced Metric for the Question Generation Evaluation** [[DOI](https://doi.org/10.3390/e24111514)] [[Bibtex](/publications/bibtex/entropy.bib)]   
+* <span style="font-family: Consolas, monospace;">[J] **QAScore - An Unsupervised Unreferenced Metric for the Question Generation Evaluation** [[DOI](https://doi.org/10.3390/e24111514)] [[Bibtex](/publications/bibtex/entropy.bib)]   
 **Tianbo Ji**, Chenyang Lyu, Gareth Jones, Liting Zhou, and Yvette Graham   
-*Entropy*, 2022
+*Entropy*, 2022</span>
 
-* [C] **Contrasting Human Opinion of Non-Factoid Question Answering with Automatic Evaluation** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3343413.3377996)] [[Bibtex](/publications/bibtex/chiir2020.bib)]   
+* <span style="font-family: Consolas, monospace;">[C] **Contrasting Human Opinion of Non-Factoid Question Answering with Automatic Evaluation** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3343413.3377996)] [[Bibtex](/publications/bibtex/chiir2020.bib)]   
 **Tianbo Ji**, Yvette Graham, and Gareth Jones  
-*Proceedings of the 2020 Conference on Human Information Interaction and Retrieval (**CHIIR 2020**)*
+*Proceedings of the 2020 Conference on Human Information Interaction and Retrieval (**CHIIR 2020**)*</span>
 
 
 
