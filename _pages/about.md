@@ -35,15 +35,15 @@ h1 + p, h2 + p, h1 + ul li, h2 + ul li {
 </style>
 
 # Brief Biography
-I am currently a lecturer from [School of Transportation and Civil Engineering](https://jttm.ntu.edu.cn/), [Nantong University](https://www.ntu.edu.cn/). In 2022, I obtained my PhD in Computer Science (Natural Language Processing) at [Dublin City University](https://www.dcu.ie/) (funded by [ADAPT Centre](https://www.adaptcentre.ie/)), and I was co-supervised by [Qun Liu](https://liuquncn.github.io/index_en.html), [Yvette Graham](https://www.tcd.ie/scss/people/academic-staff/ygraham/), and [Gareth Jones](https://www.dcu.ie/computing/people/gareth-jones). My research interests mainly focus on Natural Language Processing (NLP), including the Evaluation of NLP, Large (Vision-)Language Models, and Visual Question Answering. Recently, I have extended my research to Multidisciplinary Applications of AI, such as Intelligent Transportation Systems (ITS), Transport Emission Prediction, and LLMs for Transportation.  
-**Email:** jitianbo@ntu.edu.cn
+I am currently a lecturer from [School of Transportation and Civil Engineering](https://jttm.ntu.edu.cn/), [Nantong University](https://www.ntu.edu.cn/). In 2022, I obtained my PhD in Computer Science (Natural Language Processing) at [Dublin City University](https://www.dcu.ie/) (funded by [ADAPT Centre](https://www.adaptcentre.ie/)), and I was co-supervised by [Qun Liu](https://liuquncn.github.io/index_en.html), [Yvette Graham](https://www.tcd.ie/scss/people/academic-staff/ygraham/), and [Gareth Jones](https://www.dcu.ie/computing/people/gareth-jones). My research interests mainly focus on Natural Language Processing (NLP), including the Evaluation of NLP, Large (Vision-)Language Models, and Visual Question Answering. Recently, I have extended my research to Multidisciplinary Applications of AI, such as Intelligent Transportation Systems (ITS), Transport Emission Prediction, LLMs for Transportation, and AI for Environmental Sustainability.  
+Email: jitianbo@ntu.edu.cn
 <!-- tianbo.ji2@mail.dcu.ie (receive-only) -->
 
 
 # Education
 
 * 2017 -- 2022, **Doctor of Philosophy (Ph.D.)**, *Computer Science*, ADAPT Centre at Dublin City University, Ireland  
-Thesis title: *Human Evaluation and Statistical Analyses on Machine Reading Comprehension, Question Generation and Open-domain Dialogue*
+Thesis: *Human Evaluation and Statistical Analyses on Machine Reading Comprehension, Question Generation and Open-domain Dialogue* [[link](https://doras.dcu.ie/27703/)]  
 * 2015 -- 2016, **Master of Science (M.Sc.)**, *Computing Science*, University College Cork, Ireland  
 * 2011 -- 2015, **Bachelor of Engineering (B.Eng.)**, *Software Engineering*, Nanjing University of Information Science & Technology, China
 
@@ -85,30 +85,29 @@ Listed below are some *peer-reviewed* papers for which I am the (<sup>†</sup>*
 
 * [J]**A Framework for Explainable Toxic Language Detection in Online Game Conversations via Distilling GPT-4**  [[DOI](https://doi.org/)][[Bibtex](/publications/bibtex/.bib)]   
 **<u>Tianbo Ji</u>**, Ali Ala, Quanwei Sun, Kechen Li, Zongshan Wang, and Seyedali Mirjalili   
-*IEEE Transactions on Affective Computing*, 2026
-
-* [J]**Assessing the Impact of Super Typhoon on Terrestrial Ecosystems in Eastern Coastal China: A Case Study of Typhoon Lekima**  [[DOI](https://doi.org/)][[Bibtex](/publications/bibtex/ijde2025.bib)]   
-Zexia Duan, Yichi Zhang, Sihui Fan, and **<u>Tianbo Ji</u>**<sup>\*</sup>  
-*International Journal of Digital Earth*, 2026 -->
+*IEEE Transactions on Affective Computing*, 2026 -->
 
 
 ##### 【2025】
-* [J]**Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control** (*Early Access*)[[DOI](https://doi.org/10.1109/TITS.2024.3519661)][[Bibtex](/publications/bibtex/tits2025.bib)]  
+* [J]**Utilizing the Internet of Things and Big Data for Traffic Management: The Role of Physical Network Systems and Collaborative Signal Light Control** (*Early Access*)  [[DOI](https://doi.org/10.1109/TITS.2024.3519661)][[Bibtex](/publications/bibtex/tits2025.bib)]  
 **<u>Tianbo Ji</u>**, Quanwei Sun, Kechen Li, and Zexia Duan  
 *IEEE Transactions on Intelligent Transportation Systems*, 2025
 
-
-* [J]**Adaptive traffic signal control for energy efficiency using deep learning and consumer electronics**  (*Early Access*)   [[DOI](https://doi.org/10.1109/TCE.2025.3574218)][[Bibtex](/publications/bibtex/tce2025.bib)]  
+* [J]**Adaptive Traffic Signal Control for Energy Efficiency Using Deep Learning and Consumer Electronics**  (*Early Access*)   [[DOI](https://doi.org/10.1109/TCE.2025.3574218)][[Bibtex](/publications/bibtex/tce2025.bib)]  
 **<u>Tianbo Ji</u>**, Peng Cheng, Kechen Li, Zhichao Cao, Zexia Duan, and Chenyang Lyu    
 *IEEE Transactions on Consumer Electronics*, 2025
+
+* [J]**Assessing the Impact of Super Typhoon on Terrestrial Ecosystems in Eastern Coastal China: A Case Study of Typhoon Lekima**  [[DOI](https://doi.org/10.1080/17538947.2025.2523482)][[Bibtex](/publications/bibtex/ijde2025.bib)]   
+Zexia Duan, Yichi Zhang, Sihui Fan, and **<u>Tianbo Ji</u>**<sup>\*</sup>  
+*International Journal of Digital Earth*, 2025
 
 ##### 【2024】
 * [J]**Urban Transport Emission Prediction Analysis through Machine Learning and Deep Learning Techniques** [[DOI](https://doi.org/10.1016/j.trd.2024.104389)][[Bibtex](/publications/bibtex/trd2024.bib)]  
 **<u>Tianbo Ji</u>**, Kechen Li, Quanwei Sun, and Zexia Duan  
 *Transportation Research Part D: Transport and Environment*, 2024 
 
-* [C]**Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks**  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447275)][[Bibtex](/publications/bibtex/icassp2024.bib)]  
-Chenyang Lyu, Wenxi Li, **<u>Tianbo Ji</u>**<sup>\*</sup>, Yi Yu, and Longyue Wang  
+* [C]**Semantic Enrichment for Video Question Answering with Gated Graph Neural Networks**  [[DOI](https://doi.org/10.1109/ICASSP48485.2024.10447275)][[Bibtex](/publications/bibtex/icassp2024.bib)]  
+Chenyang Lyu, Wenxi Li, **<u>Tianbo Ji</u>**<sup>\*</sup>, Yi Yu<sup>\*</sup>, and Longyue Wang<sup>\*</sup>  
 *2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)*
 
 ##### 【2023】
@@ -139,7 +138,7 @@ Chenyang Lyu, Wenxi Li, **<u>Tianbo Ji</u>**<sup>\*</sup>, Liting Zhou, and Cath
 
 # Academic Activities
 ## Reviewer  
-* **Journal**: Information Processing & Management, Artificial Intelligence Review, Journal of Supercomputing, Aquacultural Engineering, New Generation Computing, etc.
+* **Journal**: Transportation Research Part D: Transport and Environment, Information Processing & Management, Artificial Intelligence Review, International Review of Financial Analysis, Aquacultural Engineering, Journal of Supercomputing, New Generation Computing, etc.
 * **Conference**: Annual Meeting of the Association for Computational Linguistics (ACL), European Conference on Information Retrieval (ECIR), International Conference on Multimedia Modeling (MMM), etc.
 
 ## Project
@@ -156,9 +155,9 @@ Chenyang Lyu, Wenxi Li, **<u>Tianbo Ji</u>**<sup>\*</sup>, Liting Zhou, and Cath
 
 # Teaching
 
-* **Transportation Big Data Analysis and Processing**, *Lecturer* for *Junior Undergraduate* students majoring in Traffic Engineering (B.Eng.)
-* **Course Design of Transportation Big Data Analysis and Processing**, *Lecturer* for *Junior Undergraduate* students majoring in Traffic Engineering (B.Eng.)
-* **Transportation Big Data Analysis and Processing**, *Lecturer* for *Junior Undergraduate* students majoring in Traffic Device (B.Eng.)
+* **Transportation Big Data Analysis and Processing**, *Lecturer* for *Junior Undergraduate* students majoring in Transportation Engineering (B.Eng.)
+* **Course Design of Transportation Big Data Analysis and Processing**, *Lecturer* for *Junior Undergraduate* students majoring in Transportation Engineering (B.Eng.)
+* **Transportation Big Data Analysis and Processing**, *Lecturer* for *Junior Undergraduate* students majoring in Transportation Equipment and Control Engineering (B.Eng.)
 * **Theory of Transportation Big Data**, *Lecturer* for *First-year Postgraduate* students majoring in Transportation (M.Eng.)
 * **Theory of Transportation Big Data (English)**, *Lecturer* for *Postgraduate* international students majoring in Transportation (M.Eng.)
-<!-- * **Professional English for Traffic Engineering**, *Guest Lecturer* for *First-year Postgraduate* students majoring in Transportation (M.Eng.) -->
+<!-- * **Professional English for Transportation Engineering**, *Guest Lecturer* for *First-year Postgraduate* students majoring in Transportation (M.Eng.) -->
