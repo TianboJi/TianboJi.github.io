@@ -115,7 +115,7 @@ Chenyang Lyu, Wenxi Li, **<u>Tianbo Ji</u>**<sup>\*</sup>, Yi Yu<sup>\*</sup>, a
 Chenyang Lyu, Wenxi Li, **<u>Tianbo Ji</u>**<sup>\*</sup>, Longyue Wang, Liting Zhou, Cathal Gurrin, Linyi Yang, Yi Yu, Yvette Graham, and Jennifer Foster  
 *Proceedings of the 31st ACM International Conference on Multimedia (ACMMM 2023)*
 
-* [C]**Document-Level Machine Translation with Large Language Models** [[PDF](https://aclanthology.org/2023.emnlp-main.1036.pdf)][[Bibtex](/publications/bibtex/emnlp2023.bib)]  
+* [C]**Document-Level Machine Translation with Large Language Models** [[DOI](https://doi.org/10.18653/v1/2023.emnlp-main.1036)][[Bibtex](/publications/bibtex/emnlp2023.bib)]  
 Longyue Wang<sup>†</sup>, Chenyang Lyu<sup>†</sup>, **<u>Tianbo Ji</u>**<sup>†</sup>, Zhirui Zhang<sup>†</sup>, Dian Yu, Shuming Shi, and Zhaopeng Tu  
 *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)*
 
@@ -124,7 +124,7 @@ Chenyang Lyu, Wenxi Li, **<u>Tianbo Ji</u>**<sup>\*</sup>, Liting Zhou, and Cath
 *Artificial Neural Networks and Machine Learning (ICANN 2023)*
 
 ##### 【2022 & Before】
-* [C]**Achieving Reliable Human Assessment of Open-Domain Dialogue Systems** [[PDF](https://aclanthology.org/2022.acl-long.445.pdf)][[Bibtex](/publications/bibtex/acl2022.bib)]   
+* [C]**Achieving Reliable Human Assessment of Open-Domain Dialogue Systems** [[DOI](https://doi.org/10.18653/v1/2022.acl-long.445)][[Bibtex](/publications/bibtex/acl2022.bib)]   
 **<u>Tianbo Ji</u>**, Yvette Graham, Gareth Jones, Chenyang Lyu, and Qun Liu  
 *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)*
 
@@ -132,7 +132,7 @@ Chenyang Lyu, Wenxi Li, **<u>Tianbo Ji</u>**<sup>\*</sup>, Liting Zhou, and Cath
 **<u>Tianbo Ji</u>**, Chenyang Lyu, Gareth Jones, Liting Zhou, and Yvette Graham  
 *Entropy*, 2022
 
-* [C]**Contrasting Human Opinion of Non-Factoid Question Answering with Automatic Evaluation** [[PDF](https://dl.acm.org/doi/pdf/10.1145/3343413.3377996)][[Bibtex](/publications/bibtex/chiir2020.bib)]  
+* [C]**Contrasting Human Opinion of Non-Factoid Question Answering with Automatic Evaluation** [[DOI](https://doi.org//10.1145/3343413.3377996)][[Bibtex](/publications/bibtex/chiir2020.bib)]  
 **<u>Tianbo Ji</u>**, Yvette Graham, and Gareth Jones  
 *Proceedings of the 2020 Conference on Human Information Interaction and Retrieval (CHIIR 2020)*
 
