@@ -93,7 +93,7 @@ Jingxing Zhong, Shurui Zhang, and **<u>Tianbo Ji</u>**<sup>\*</sup>
 **<u>Tianbo Ji</u>**, Peng Cheng, Kechen Li, Zhichao Cao, Zexia Duan, and Chenyang Lyu    
 *IEEE Transactions on Consumer Electronics*, 2025
 
-* [J]**Modeling High-Order Semantic Abstraction and Temporal Interaction for Remote Sensing Change Detection**  [[DOI](https://doi.org/10.1109/JSTARS.2025.3634406)][[Bibtex](/publications/bibtex/jstars2025.bib)]  
+* [J]**Modeling High-Order Semantic Abstraction and Temporal Interaction for Remote Sensing Change Detection** (*Early Access*) [[DOI](https://doi.org/10.1109/JSTARS.2025.3634406)][[Bibtex](/publications/bibtex/jstars2025.bib)]  
 Jingxing Zhong, Shurui Zhang, **<u>Tianbo Ji</u>**<sup>\*</sup>, and Zhen Tian    
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025
 
