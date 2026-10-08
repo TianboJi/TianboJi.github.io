@@ -68,16 +68,17 @@ Listed below are some *peer-reviewed* papers for which I am the (<sup>†</sup>*
 **<u>Tianbo Ji</u>**, Asim Alwabel, Zexia Duan, Mansor Alohali, Saad Alahmari, and Massimiliano Ferrara   
 *Journal of Innovation & Knowledge*, 2026   
 
-
-* [J]**A Framework for Explainable Toxic Language Detection in Online Game via Distilling Large Language Model**  [[Paper](https://doi.org/)][[BibTeX](/publications/bibtex/tg2026.bib)]   
-**<u>Tianbo Ji</u>**, Ali Ala, Penghui Liu, Peng Ping, Quanwei Sun, Kechen Li, Zongshan Wang, and Seyedali Mirjalili   
-*IEEE Transactions on Games*, 2026 
  -->
 
 
 
 
 ##### 【2026】  
+
+* [J]**A Framework for Explainable Toxic Language Detection in Online Game via Distilling Large Language Model**  (Early Access) [[Paper](https://doi.org/10.1109/TG.2026.3740458)][[BibTeX](/publications/bibtex/tg2026.bib)]   
+**<u>Tianbo Ji</u>**, Ali Ala, Penghui Liu, Peng Ping, Quanwei Sun, Kechen Li, Zongshan Wang, and Seyedali Mirjalili   
+*IEEE Transactions on Games*, 2026 
+
 * [J]**PDSS-Net: Phase-Dominant Structural Sensing and Symmetric Spectral Consensus for Remote Sensing Change Detection**   (Early Access) [[Paper](https://doi.org/10.1109/TGRS.2026.3739358)][[BibTeX](/publications/bibtex/tgrs2026.bib)]   
 Jingxing Zhong, Shurui Zhang, Xu Lin, Chenyang Lyu, and **<u>Tianbo Ji</u>**<sup>\*</sup>      
 *IEEE Transactions on Transactions on Geoscience and Remote Sensing*, 2026
